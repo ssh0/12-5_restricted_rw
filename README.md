@@ -1,4 +1,4 @@
-12-5_resricted_rw
+12-5_restricted_rw
 =================
 
 numerical simulation with python
